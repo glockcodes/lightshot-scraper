@@ -1,7 +1,7 @@
 {
     "logging": {
         "console": true,
-        "webhook": "https://canary.discord.com/api/webhooks/934407740342808618/i6Fp4XoQ6s4Ib1x1Up934bXFJ7CTFCUPG5n9gAXR7ApHWamghcYbnKk1U7cN-sQ1Dg9O",
+        "webhook": "https://canary.discord.com/api/webhooks/xxx/xxx",
         "file": true
     }
 }

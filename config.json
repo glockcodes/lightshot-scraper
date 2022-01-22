@@ -1,7 +1,7 @@
 {
     "logging": {
-        "console": true,
+        "console": false,
         "webhook": "https://discord.com/api/webhooks/xxx/xxx",
-        "file": true
+        "file": false
     }
 }

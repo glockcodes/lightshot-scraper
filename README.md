@@ -16,6 +16,8 @@ Before using, make sure you have [Node.js](https://nodejs.org), [express](https:
 ```
 npm install
 npm i express
+npm i request
+npm i prompt-sync
 ```
 **Running the app**
 ```
